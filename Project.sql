@@ -1,4 +1,4 @@
---Admin
+--Admin --Created Admin for entering the app to find the available shifts
 
 drop table admin;
 create table admin
@@ -9,7 +9,7 @@ passwords varchar(20) not null
 )
 select *from admin;
 
--- Student_type
+-- Student_type --Created table for all the cred
 drop table student_employees;
 create table student_employees
 (
