@@ -1,3 +1,8 @@
+The App which I created using powerapps, which allows students to pick and find available shifts on campus. This app contains all the information of the on campus jobs available in Syracuse University. Bellow is the link to the app. [12/3/19 1:59 AM] Avin Deshmukh
+    Netid : AVIN
+    Password: AvinDeshmukh
+ https://apps.powerapps.com/play/f75ee0f9-e479-4cce-9a25-d33f6655ee56?tenantId=4278a402-1a9e-4eb9-8414-ffb55a5fcf1e
+
 --Admin --Created Admin for entering the app to find the available shifts
 
 drop table admin;
